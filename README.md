@@ -1,4 +1,4 @@
-# Grafika
+# PHP图形处理Grafika
 
 [![Build Status](https://travis-ci.org/kosinix/grafika.svg?branch=master)](https://travis-ci.org/kosinix/grafika)
 
